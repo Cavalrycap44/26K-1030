@@ -54,4 +54,19 @@ Used conditional logic and arithmetic operations to automate result calculations
 
 - Worked with page structure, navigation, headings, forms, images, and styling.  
 
-- Focused on creating clean and user-friendly layouts.  
+- Focused on creating clean and user-friendly layouts.
+  
+## Hobbies and Extracurriculars
+1. Video Games
+   - [x] Ghost of Tsushima
+   - [x] Bloodborne
+   - [x] Resident Evil: Biohazard
+   - [x] God of War (2018)
+   - [x] GTA V
+   - [x] Red Dead Redemption 2
+   - [ ] Elden Ring
+   - [ ] Cyberpunk 2077
+
+2. Reading
+3. Formula 1
+4. TV Shows
